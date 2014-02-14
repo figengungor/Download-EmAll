@@ -5,8 +5,7 @@
 
 ################ WHAT DOES THIS CODE DO? ##############################
 #######################################################################
-#########Saves opengameart sounds in one search page################### 
-#####(tested by selecting music category and cc0 license(public)) #####
+###############Download an image from 500px############################
 #######################################################################
 
 import urllib
